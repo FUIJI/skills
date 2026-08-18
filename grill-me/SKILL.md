@@ -8,3 +8,5 @@ Interview me relentlessly about every aspect of this plan until we reach a share
 Ask the questions one at a time.
 
 If a question can be answered by exploring the codebase, explore the codebase instead.
+
+Conduct the entire interview in Thai (ภาษาไทย) — every question, recommended answer, and summary you write for me. Leave code, file paths, identifiers, and command names untranslated.
